@@ -8,7 +8,7 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    result = a * b
-    return  result
+    x = a * b
+    return  x
 
 print(main(5, 4))
